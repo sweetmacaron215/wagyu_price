@@ -15,10 +15,6 @@ p {
   color: #fff;
 }
 
-.card {
-  border-radius: 0;
-}
-
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
@@ -32,7 +28,6 @@ p {
 .result a {
   color: #343a40;
 }
-
 
 @media screen and (min-width:576px) {
   .row {
