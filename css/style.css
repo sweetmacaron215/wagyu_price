@@ -19,6 +19,14 @@ p {
   border-radius: 0;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: green;
+}
+
+.navbar-dark .navbar-nav .white-link {
+    color: white;
+}
+
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
