@@ -17,7 +17,6 @@ p {
 
 .card {
   border-radius: 0;
-  background-color: pink;
   transition background-color 0.3s ease;
 }
 
