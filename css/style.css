@@ -17,7 +17,13 @@ p {
 
 .card {
   border-radius: 0;
+  transition background-color 0.3s ease;
 }
+
+.card:hover {
+  background-color: pink;
+}
+
 
 .content-width {
   max-width: 1200px;
