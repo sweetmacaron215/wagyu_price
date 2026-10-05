@@ -17,11 +17,14 @@ p {
 
 .card {
   border-radius: 0;
+  background-color:pink
+  transition background-color 0.3s ease;
 }
 
-.card-body{
-  color: pink;
+.card:hover {
+  background-color:pink
 }
+
 
 .content-width {
   max-width: 1200px;
